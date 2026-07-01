@@ -489,7 +489,7 @@ Menus:
 
 params:
   title: "Jibril Profile"
-  description: This is a little info about my cool site
+  description: This is a little info about my cool portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
